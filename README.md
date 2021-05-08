@@ -1,6 +1,8 @@
 # meteo
 meteo avi2gba related backups (originally from inside-cap.com
 
+please note that version numbers don't really mean anything for non official releases.
+
 
 ## Missing Versions
 
