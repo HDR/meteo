@@ -11,4 +11,4 @@ please note that version numbers don't really mean anything for releases beyond 
 
 - Meteo 1.3.2 (FR.AcKix) - filename: ?
 
-- Meteo 1.3.1 - 1.4.0 (Undumped?) - filename: ?
+- Meteo 1.3.2 - 1.4.0 (Undumped?) - filename: ?
