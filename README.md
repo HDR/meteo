@@ -5,7 +5,7 @@ please note that version numbers don't really mean anything for releases beyond 
 
 ## Missing Versions
 
-- Meteo 1.0.0 - 1.4.0 (Undumped?) - filename: ?
+- Meteo 1.0.0 - 1.3.0 (Undumped?) - filename: ?
 
 - CalcMeteo (Chinese 1.3.1) - filename: HA_meteo131_wwip.rar
 
@@ -13,4 +13,4 @@ please note that version numbers don't really mean anything for releases beyond 
 
 - Meteo 1.3.2 (FR.AcKix) - filename: ?
 
-- Meteo 1.3.3 - 1.3.5 (Undumped?) - filename: ?
+- Meteo 1.3.3 - 1.4.0 (Undumped?) - filename: ?
