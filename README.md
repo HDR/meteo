@@ -1,5 +1,5 @@
 # meteo
-meteo avi2gba related backups (originally from inside-cap.com
+meteo avi2gba related backups (originally from inside-cap.com)
 
 please note that version numbers don't really mean anything for releases beyond 1.4.0 (as this was the last official version)
 
